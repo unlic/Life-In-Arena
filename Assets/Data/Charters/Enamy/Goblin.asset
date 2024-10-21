@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aa2437fa6cccb449b154bcc467285c3, type: 3}
+  m_Name: Goblin
+  m_EditorClassIdentifier: 
+  Avatar: {fileID: 0}
+  AnimationObject: {fileID: 3445140102832176357, guid: 24a5d601529685941adb0b67a0eae786, type: 3}
+  Strength: 9
+  Agility: 9
+  Intelligence: 9
+  DefaultHealth: 375
+  DefaultMana: 0
+  DefaultMoveSpeed: 2
+  DefaultAttackSpeed: 0.5
+  DefaultAttackPower: 53
+  DefaultDefense: 0
+  AttackDistance: 2
+  AttackType: 0
+  DamageType: 1
+  CharacterClass: 0
+  CharacterAbilities: []

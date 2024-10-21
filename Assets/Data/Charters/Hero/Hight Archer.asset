@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aa2437fa6cccb449b154bcc467285c3, type: 3}
+  m_Name: Hight Archer
+  m_EditorClassIdentifier: 
+  Avatar: {fileID: 21300000, guid: 5198335602a80b14690b9a5b63e8a74e, type: 3}
+  AnimationObject: {fileID: 2639046188762290577, guid: e57fda98cac7b644e8ffccc1f82f57d7, type: 3}
+  Strength: 7
+  Agility: 25
+  Intelligence: 7
+  DefaultHealth: 595
+  DefaultMana: 135
+  DefaultMoveSpeed: 3
+  DefaultAttackSpeed: 0.5
+  DefaultAttackPower: 32
+  DefaultDefense: 3
+  AttackDistance: 8
+  AttackType: 1
+  DamageType: 1
+  CharacterClass: 1
+  CharacterAbilities:
+  - {fileID: 2159448347019087280, guid: 77c49238a02d707439737b6a3ec69fff, type: 3}
+  - {fileID: 5094224702270514517, guid: c1fae75f6c933ef49b95623716dc3ffc, type: 3}
+  - {fileID: 7775413375510443186, guid: dc388343696a67c4987c9c7e8b65d20b, type: 3}
+  - {fileID: 7965305455871385796, guid: 4b01b0aa8de246c4c9c414a1db3f407a, type: 3}

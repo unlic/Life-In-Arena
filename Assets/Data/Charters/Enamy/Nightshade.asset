@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aa2437fa6cccb449b154bcc467285c3, type: 3}
+  m_Name: Nightshade
+  m_EditorClassIdentifier: 
+  Avatar: {fileID: 0}
+  AnimationObject: {fileID: 409352430138873595, guid: c88b0436bc36af946a1c01020ecd51ac, type: 3}
+  Strength: 10
+  Agility: 10
+  Intelligence: 10
+  DefaultHealth: 400
+  DefaultMana: 0
+  DefaultMoveSpeed: 2
+  DefaultAttackSpeed: 0.5
+  DefaultAttackPower: 42
+  DefaultDefense: 0
+  AttackDistance: 7
+  AttackType: 1
+  DamageType: 1
+  CharacterClass: 0
+  CharacterAbilities: []
